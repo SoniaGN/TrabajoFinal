@@ -1,0 +1,70 @@
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.exe
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.pdb
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.CrearMedico.resources
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.Properties.Resources.resources
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csproj.GenerateResource.cache
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csproj.CoreCompileInputs.cache
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.exe
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.pdb
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.exe.config
+<<<<<<< HEAD
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.MenuPrincipal.resources
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.RegistroUsuario.resources
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.Login.resources
+D:\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csprojAssemblyReference.cache
+=======
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.exe.config
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.exe
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.pdb
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csprojAssemblyReference.cache
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.CrearMedico.resources
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.Properties.Resources.resources
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csproj.GenerateResource.cache
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csproj.CoreCompileInputs.cache
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.exe
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.pdb
+>>>>>>> 55085538583927c3a50e7d7e7dafb7237feb9261
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.exe.config
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.exe
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.pdb
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csprojAssemblyReference.cache
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.CrearMedico.resources
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.Login.resources
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.MenuPrincipal.resources
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.Properties.Resources.resources
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.RegistroUsuario.resources
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csproj.GenerateResource.cache
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csproj.CoreCompileInputs.cache
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.exe
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.pdb
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.BandejaMensajes.resources
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.exe.config
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.exe
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.pdb
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csprojAssemblyReference.cache
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.BandejaMensajes.resources
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.CrearMedico.resources
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.Login.resources
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.MenuPrincipal.resources
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.Properties.Resources.resources
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.RegistroUsuario.resources
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csproj.GenerateResource.cache
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csproj.CoreCompileInputs.cache
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.exe
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.pdb
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.exe.config
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.exe
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\bin\Debug\WCFAplicationsMedical.pdb
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csprojAssemblyReference.cache
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.BandejaMensajes.resources
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.CrearMedico.resources
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.Login.resources
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.LoginCliente.resources
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.MenuPrincipal.resources
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.Properties.Resources.resources
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.RegistroUsuario.resources
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csproj.GenerateResource.cache
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.exe
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.pdb
+C:\Users\adrian\Desktop\SISTEMAS DISTRIBUIDOS\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFAplicationsMedical\obj\Debug\WCFAplicationsMedical.RegistroAtencion.resources

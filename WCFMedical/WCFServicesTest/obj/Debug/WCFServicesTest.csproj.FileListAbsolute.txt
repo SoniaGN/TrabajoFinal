@@ -1,0 +1,22 @@
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\obj\Debug\WCFServicesTest.csprojAssemblyReference.cache
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\obj\Debug\WCFServicesTest.csproj.CoreCompileInputs.cache
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\WCFServicesTest.dll.config
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\WCFServicesTest.dll
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\WCFServicesTest.pdb
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\obj\Debug\WCFServicesTest.csproj.CopyComplete
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\obj\Debug\WCFServicesTest.dll
+D:\ProyectoDSD\WCFMedical\WCFServicesTest\obj\Debug\WCFServicesTest.pdb
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFServicesTest\obj\Debug\WCFServicesTest.csprojAssemblyReference.cache
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFServicesTest\obj\Debug\WCFServicesTest.csproj.CoreCompileInputs.cache
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFServicesTest\obj\Debug\WCFServicesTest.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFServicesTest\obj\Debug\WCFServicesTest.pdb

@@ -1,0 +1,36 @@
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\WCFSTMedical.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\WCFSTMedical.pdb
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\obj\Debug\WCFSTMedical.csprojAssemblyReference.cache
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\obj\Debug\WCFSTMedical.csproj.CoreCompileInputs.cache
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\obj\Debug\WCFSTMedical.csproj.CopyComplete
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\obj\Debug\WCFSTMedical.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFSTMedical\obj\Debug\WCFSTMedical.pdb
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\WCFSTMedical.dll
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\WCFSTMedical.pdb
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\Json.dll
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\Json.pdb
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\obj\Debug\WCFSTMedical.csprojAssemblyReference.cache
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\obj\Debug\WCFSTMedical.csproj.CoreCompileInputs.cache
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\obj\Debug\WCFSTMedical.csproj.CopyComplete
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\obj\Debug\WCFSTMedical.dll
+C:\Servicio Rest grupal\ProyectoDSD_v2\WCFMedical\WCFSTMedical\obj\Debug\WCFSTMedical.pdb
